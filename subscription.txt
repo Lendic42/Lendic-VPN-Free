@@ -1,1 +1,1 @@
-vless://66dc1927-8528-4f1e-bb74-5a9c7aa8ea8c@188.225.27.229:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=bridge.rkitman.ru&sid=88d9dc52ef39c8bd&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20VPN%2001%20%E2%9A%AA
+vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20VPN%2001%20%E2%9A%AB
