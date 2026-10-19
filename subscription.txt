@@ -1,1 +1,1 @@
-vless://7710373d-abbb-4d6e-88cc-12702fb70aee@150.241.80.166:8443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=4IiD92GMfCARKrwFUrAqeafahrkCr5KttRQhZaei7gc&sni=nl.ataloqe.com&sid=9f3a7c2d4e1b8a6c&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20VPN%2001%20%E2%9A%AB
+vless://7eecba82-6a8a-4f6a-bff9-baa092931150@146.75.32.8:443?host=mxnlkmmqi.global.ssl.fastly.net&security=tls&sni=Account.fastly.com&type=xhttp&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20VPN%2001%20%E2%9A%AB
