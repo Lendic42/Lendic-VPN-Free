@@ -1,1 +1,1 @@
-vless://f85af535-d0ff-437f-ad79-4be0e7c1f350@fast80.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast80.slopllex.app&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20VPN%2001%20%E2%9A%AA
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@194.87.29.96:8443?type=grpc&security=reality&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&sid=4d2cf3&sni=vk.ru&fp=safari#%F0%9F%8F%B3%EF%B8%8F%20Anycast-IP%20%7C%20VPN%2001%20%E2%9A%AA
