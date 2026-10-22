@@ -1,3 +1,1 @@
-vless://c538c9dd-2e3f-488f-a8ca-ac5b7c0773f3@47.237.74.17:16263?security=none&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20VPN%2001%20%E2%9A%AB
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@89.125.237.24:443?security=reality&encryption=none&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=web.stride.surf&sid=7271129440ade8fa&fp=qq#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20VPN%2002%20%E2%9A%AB
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@77.95.206.236:64563?encryption=none&pbk=wtTHheIAfyG6Sis8_GC5aHW06QPs9K-LwTqZ15NHX2M&security=reality&sid=04bc4a55875f&sni=www.starlink.com&type=grpc&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20VPN%2001%20%E2%9A%AA
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@194.87.29.96:8443?security=reality&encryption=none&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&fp=firefox&type=grpc&sni=vk.ru&sid=4d2cf3#%F0%9F%8F%B3%EF%B8%8F%20Anycast-IP%20%7C%20VPN%2001%20%E2%9A%AA
