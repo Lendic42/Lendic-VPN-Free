@@ -1,1 +1,1 @@
-vless://f85af535-d0ff-437f-ad79-4be0e7c1f350@fast80.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast80.slopllex.app&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20VPN%2001%20%E2%9A%AA
+vless://f85af535-d0ff-437f-ad79-4be0e7c1f350@fast_s78.slopllex.app:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fast_s78.slopllex.app&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20VPN%2001%20%E2%9A%AA
