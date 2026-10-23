@@ -1,1 +1,1 @@
-vless://0bfad5f5-d45b-49ef-b9e3-fdcdfb47ad0b@45.128.78.183:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20VPN%2001%20%E2%9A%AB
+vless://0bfad5f5-d45b-49ef-b9e3-fdcdfb47ad0b@45.128.78.183:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20VPN%2001%20%E2%9A%AB
