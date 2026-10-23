@@ -1,1 +1,1 @@
-vless://eca11a38-47f7-4207-ac62-2f0cef3de679@jeod.figmafound.org:443?encryption=none&flow=xtls-rprx-vision&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&security=reality&sid=711ad7f475c35e5e&sni=jeod.figmafound.org&type=tcp&fp=ios#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20VPN%2001%20%E2%9A%AB
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?type=tcp&security=reality&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&sni=www.chip.de&host=www.chip.de&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20VPN%2001%20%E2%9A%AA
